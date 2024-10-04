@@ -9,7 +9,7 @@ contributes:
       code-fold: true
       code-summary: "Code"
       toc-location: left
-      toc-title: " "
+      toc-title: "Table of Contents"
       theme: [custom.scss]
       include-after-body: "footer.html"
       template-partials:
